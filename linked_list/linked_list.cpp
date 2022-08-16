@@ -6,6 +6,11 @@ public:
     Node* next;
 };
 
+/**
+ * @brief 
+ * print linked list
+ * @param Node* n 
+ */
 void printList(Node* n) {
     while (n != NULL)
     {
