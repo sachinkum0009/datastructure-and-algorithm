@@ -19,6 +19,12 @@ void printList(Node* n) {
     }
 }
 
+/**
+ * @brief
+ * main function
+ * @param argc, argv
+ * @return int
+ */
 int main(int argc, char const *argv[])
 {
     Node* head = NULL;
